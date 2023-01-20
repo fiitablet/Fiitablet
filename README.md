@@ -1,3 +1,4 @@
+![portada 2023](https://user-images.githubusercontent.com/69127505/213800466-1965bb61-1a7c-4b06-92d4-1fa2019bb966.png)
 ### Hi there 👋
 Breve intro de que hago y quien soy🥳💥💥 Hola y bienvenid@, comencé en el mundo IT como una manera de desafío para estar preparado para el futuro y sin duda no me arrepiento.
 
