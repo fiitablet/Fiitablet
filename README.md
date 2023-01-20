@@ -11,3 +11,7 @@ Análisis de datos:📈
 Preguntar,preparar,procesar,analizar,compartir y actuar en base a los datos
 
 Experiencia en la recopilación, transformación y organización de datos para su análisis con el fin de ayudar a tomar decisiones informadas Excelentes conocimientos y dominio de las plataformas para el análisis efectivo de datos, que incluyen SQL, hojas de cálculo, Tableau y lenguaje R Sólidas destrezas analíticas, comunicacionales y organizativas
+
+
+
+Link de mi portafolio completo aqui: https://fiitablet.github.io/Portafolio_profesional22/
